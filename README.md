@@ -24,7 +24,7 @@ A Model Context Protocol (MCP) server that provides seamless integration with Op
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AllAboutAI-YT/gpt5mcp.git
+git clone https://github.com/ForgetMeAI/gpt5mcp.git
 cd gpt5mcp
 ```
 
